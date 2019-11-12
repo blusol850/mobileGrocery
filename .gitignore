@@ -1,0 +1,10 @@
+.project
+.project-sublime-workspace
+/.idea
+/locales
+/node_modules
+/platforms
+/plugins
+/res
+
+.quasar/
